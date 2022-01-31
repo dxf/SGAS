@@ -7,4 +7,6 @@ The Sue Gray Alert System was a 5 minute project that just beeps every time a ne
 - Install Python 3.x
 - Run `python3 -m pip install -r requirements.txt` in a Terminal.
 - (if that doesn't work, try `py -m pip install -r requirements.txt`)
+
+## Running
 - Run sgas.py in Python
